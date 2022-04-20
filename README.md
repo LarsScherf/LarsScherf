@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LarsScherf
 - 👀 I’m interested in Web Development and Sports
-- 🌱 I’m currently learning VueJS ond React
+- 🌱 I’m currently learning VueJS and React
 
 
 <!---
